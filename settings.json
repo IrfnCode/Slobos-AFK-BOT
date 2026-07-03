@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mc.irfncode.my.id",
-    "port": 41499,
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
